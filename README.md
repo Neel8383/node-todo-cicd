@@ -8,8 +8,8 @@ Run these commands:
 
 `sudo apt install npm`
 
-
 `npm install`
+`npm install express`
 
 `node app.js`
 
